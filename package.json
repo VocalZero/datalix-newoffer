@@ -13,7 +13,7 @@
     "node": ">=14.0.0"
   },
   "author": "Kacper Mura",
-  "license": "ISC",
+  "license": "MPL-2.0",
   "description": "This tool sends a notification via a Discord webhook when a new sale dedicated server is available from the hosting provider Datalix.",
   "dependencies": {
     "axios": "^1.13.2",
