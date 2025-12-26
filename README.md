@@ -4,6 +4,18 @@ This tool sends a notification via a Discord webhook when a new sale dedicated s
 
 It checks every five minutes to see if there is anything new. The cron job can be customized in the code.
 
+https://datalix.de/sale-dedicated-server-mieten
+
+# Screenshoots
+## When found new offers
+<img src="https://i.kacper-mra.de/sEFO0/xocASoGU47.png/raw" />
+<img src="https://i.kacper-mra.de/sEFO0/fuQoxIXE30.png/raw" />
+
+## When found no offers
+<img src="https://i.kacper-mra.de/sEFO0/paSOGoFo06.png/raw" />
+
+On Discord there is then no new message.
+
 # Installation Guide
 
 1. Pull or Download Github Repo
